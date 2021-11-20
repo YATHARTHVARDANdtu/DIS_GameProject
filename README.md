@@ -1,6 +1,6 @@
 # DIS_GameProject
-### Developed By :-  YATHARTH VARDAN
-### Submitted to :- 2K18/CO/405
+### Developed By :-  YATHARTH VARDAN - 2K18/CO/405
+### Submitted to :- Dr. Anukriti Kaushal
 
 ## Two Player games are implemented in the Project, namely :
 1. Tic Tac Toe
@@ -17,3 +17,10 @@
 ## Server - MultiThreaded Server
 ## Client - MultiThreaded Client
 ## Communication - Message Passing
+
+## How to Run
+1. Clone the repository and open cmd/shell 
+2. Run 'python tictactoe.py' -> server for tic tac toe
+3. Run 'python battleship.py' -> server for battleship
+4. Run 'python run.py' -> For Game Playing
+
